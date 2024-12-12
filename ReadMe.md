@@ -1,7 +1,7 @@
 # Ehsan Alam - SDET  Engineer 👨‍💻  
 
-**📍 Location:** Punjab, Pakistan  
-**📧 Contact:**  [LinkedIn](https://www.linkedin.com/in/ehsan-alam-🇦🇪-68851914a) | Awanehsan123@gmail.com
+**📍 Location:** Islambad, Pakistan  
+**📧 Contact:**  **[LinkedIn](https://www.linkedin.com/in/ehsan-alam-🇦🇪-68851914a) | Awanehsan123@gmail.com | +923461197202**
 
 ---
 
