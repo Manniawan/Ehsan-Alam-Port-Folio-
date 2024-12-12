@@ -23,9 +23,12 @@ Software Developer ENGINEER In Test With over 5 years of professional experience
 - 🔍 **API Testing :** Experienced in API testing  REST APi and verifying API endpoint results for completion of End Results.
 - 🛠️ **DB Testing:** Expereince In data Validation , Mapping and Automation Scripts Creations.  
 ---
-
+## 💼 Experience  
+---
 ### **MTBC  | Senior Automation Engineer**  
 **📅  2020 – Aug 2022**  
+
+**Manual Testing**
 - 🛠️ Performed functional, system, integration, regression, and UAT testing to ensure software quality.
 - 🛠️ Performed Cross Browser Testing Using Different Techniques and Methodologies.
 - 🛠️ Conducted DB and API performance testing to verify data integrity and system performance.
@@ -34,47 +37,47 @@ Software Developer ENGINEER In Test With over 5 years of professional experience
 - ✅ Collaborated with Business and Development teams to translate requirements into effective test strategies.  
 - 💻 Revised and updated test cases and scripts to adapt to evolving requirements, ensuring testing accuracy.
 
+
+
+**Automated Testing with Test Complete & Recorded Scripts** 
+ 
+•	Automated Products processes and Flows using Test Complete and JavaScript, enhancing efficiency for SDETs and end-user scenarios.
+•	Set up test automation frameworks using Selenium, C#, Nunit, and JavaScript to streamline testing processes.
+•	Designed and executed automated test plans, scenarios, and scripts to ensure comprehensive coverage.
+•	Used recorded scripts in Test Complete to automate repetitive tasks
+•	Collaborated with Business and Development teams to integrate automated testing into the software development lifecycle.
+•	Conducted performance testing of APIs and databases to ensure system reliability and scalability.
+
+## 💼 Experience  
 ---
-
-### **Wiseman Innovations | Software Development Engineer In Test**  
-**📅 Jan 2021 – Mar 2022**  
-- 🛠️ Designed, developed, and maintained automation scripts, increasing coverage by 40%.  
-- 🌐 Integrated **API testing** with **RestAssured**, reducing manual testing by 25%.  
-- 📖 Documented frameworks and configurations, improving team collaboration and maintenance.  
-- 🐞 Coordinated with development teams to reduce reopened defects by 15%.  
-- 🔄 Streamlined QA and development communication for smooth, timely releases.
-
----
-
-### **Okapi Finance International | SQA Automation Engineer**  
-**📅 Apr 2018 – Dec 2020**  
-- 🛠️ Developed automation solutions with **Selenium** and **Appium**, cutting manual efforts by 30%.  
-- 🤝 Collaborated using **Cucumber** and **SpecFlow**, increasing test coverage by 25%.  
-- 🛡️ Conducted risk assessments, improving stability during releases.  
-- 🔄 Executed **regression and smoke tests**, achieving a 90% pass rate on key features.  
-- 📝 Created comprehensive documentation, streamlining test processes and reviews.
+### **Cube Medical Billing | JR. QA Engineer**  
+**📅  2019-2020**  
+•	Performed web based testing on EDI's Claim Submission, and Data Extraction testing such as Db level Testing Collaborated with cross-functional teams to continuously improve testing processes Validated and verified for clinical use and non-clinical use Worked on cross platform technologies and testing on cross platforms Searched new methodologies and techniques and implemented those techniques in testing processes Provided support in maintaining and upgrading existing systems Coordinated with business teams to clarify requirements and business needs
 
 ---
 
 ## 🎓 Education  
-- 🎓 **Master of Information Technology** – Superior University, 2018  
-  *Major: Software Engineering | Minor: Telecommunication*  
-- 🎓 **B.Sc. in Double Math & Physics** – University of Gujrat, 2016  
-  *Major: Mathematics | Minor: Physics*
+- 🎓 	**BS in Computer Sciences Hazara University** : 2015 2019 Mansehra, Pakistan 
+   *Major: Computer Sciences | Minor: Programming*  
+- 🎓 	**ICS in Computer Science Army Public School** :2013 2015 Mansehra, Pakistan 
+   *Major: Computer Sciences | Minor: OOP*
+- 🎓 	**Marticulation - FFMS Mansehra** :2013 2015 Mansehra, Pakistan 
+ 
+  
 
 ---
 
 ## 🛠️ Skills & Technologies  
 - **Automation Tools:** Selenium, Cypress, Playwright, Appium, RestAssured  
-- **Programming Languages:** Java, JavaScript, C#  
+- **Programming Languages:** BDD, Gerkhin,SQL, C#,JavaScript  
 - **Frameworks:** BDD, Cucumber, SpecFlow  
 - **CI/CD:** Jenkins, Azure DevOps  
 - **Databases:** SQL  
-- **Project Management:** Jira, GitHub  
+- **Project Management:** Jira, Tfs  
 - **Testing Types:** API Testing, Performance Testing, Load Testing  
 - **Development Practices:** Agile, Risk Assessment, Test Planning
 
 ---
 
 ## 🌐 Let's Connect!  
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sqa-automation-engineer) or email me at **m.ali.saif12@gmail.com** for collaboration or project inquiries.
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/ehsan-alam-🇦🇪-68851914a) or email me at **awanehsan123@gmail.com** for collaboration or project inquiries.
